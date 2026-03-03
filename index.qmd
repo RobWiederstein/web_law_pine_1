@@ -2,7 +2,7 @@
 title: "Welcome"
 ---
 
-![Pine straw in a southern pine forest](https://picsum.photos/seed/forest/1200/400.jpg){fig-alt="Pine straw mulch" width="100%"}
+![Pine straw mulch for garden](img/hero.jpg){fig-alt="Pine straw mulch" width="100%"}
 
 ## Who we are
 Pinestraw Distributors LLC is your trusted connection to the finest pine straw mulch
