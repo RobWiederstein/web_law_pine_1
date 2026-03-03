@@ -2,6 +2,6 @@
 title: "Contact"
 ---
 
-![](https://picsum.photos/seed/pinestraw/1200/400){fig-alt="Pine straw landscape" width="100%"}
+![](https://picsum.photos/seed/pinestraw/1200/400.jpg){fig-alt="Pine straw landscape" width="100%"}
 
 <!-- Contact details go here -->

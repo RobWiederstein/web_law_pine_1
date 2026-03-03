@@ -2,7 +2,7 @@
 title: "Welcome"
 ---
 
-![Pine straw in a southern pine forest](https://picsum.photos/seed/forest/1200/400){fig-alt="Pine straw mulch" width="100%"}
+![Pine straw in a southern pine forest](https://picsum.photos/seed/forest/1200/400.jpg){fig-alt="Pine straw mulch" width="100%"}
 
 ## Who we are
 Pinestraw Distributors LLC is your trusted connection to the finest pine straw mulch
@@ -29,7 +29,7 @@ Pine straw is available in three formats to match any job size, from a single re
 yard to a large-scale commercial project. We work with you to determine the right format
 for your volume, equipment, and timeline.
 
-![Pine straw bales ready for delivery](https://picsum.photos/seed/bales/800/500){fig-alt="Pine straw bales" width="100%"}
+![Pine straw bales ready for delivery](https://picsum.photos/seed/bales/800/500.jpg){fig-alt="Pine straw bales" width="100%"}
 
 ### Standard Bales
 
