@@ -13,3 +13,45 @@
 .nav-link:hover {
   color: #d4e8c2 !important;
 }
+
+/* Footer */
+.custom-footer {
+  background-color: #2D5A27;
+  color: #ffffff;
+  padding: 2rem 0 1.5rem;
+  margin-top: 3rem;
+  border-top: 2px solid #1e3d1a;
+}
+
+.custom-footer h6 {
+  color: #d4e8c2;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.custom-footer p {
+  font-size: 0.9rem;
+  color: #e8f5e2;
+  margin-bottom: 0.5rem;
+}
+
+.custom-footer a {
+  color: #d4e8c2;
+}
+
+.custom-footer a:hover {
+  color: #ffffff;
+}
+
+.social-icons a {
+  font-size: 1.4rem;
+  margin-left: 0.75rem;
+  color: #d4e8c2;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #ffffff;
+}
