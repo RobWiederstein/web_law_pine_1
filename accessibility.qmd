@@ -1,0 +1,26 @@
+---
+title: "Accessibility Statement"
+---
+
+*Last updated: 2025*
+
+## Our Commitment
+
+Pine Straw Distributors LLC is committed to ensuring digital accessibility for people
+with disabilities. We continually work to improve the user experience for everyone and
+apply relevant accessibility standards.
+
+## Standards
+
+We aim to conform to the Web Content Accessibility Guidelines (WCAG) 2.1, Level AA.
+These guidelines explain how to make web content more accessible to people with
+disabilities.
+
+## Known Limitations
+
+We are actively working to identify and resolve any accessibility issues on this site.
+
+## Feedback
+
+If you experience any difficulty accessing content on this site, please contact us at
+jane@pinestrwadistributors.com and we will make every effort to assist you.
