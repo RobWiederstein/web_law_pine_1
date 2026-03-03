@@ -158,6 +158,70 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<style>
+.site-footer {
+  background-color: #2D5A27;
+  padding: 45px 2rem 20px;
+  font-size: 15px;
+  line-height: 24px;
+  color: #c8e6c0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.footer-top {
+  display: grid !important;
+  grid-template-columns: 2fr 1fr 1fr !important;
+  gap: 2rem;
+}
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.site-footer hr {
+  border-top-color: #4a8a42;
+  opacity: 0.5;
+  margin: 2rem 0;
+}
+.site-footer h6 {
+  color: #fff;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-top: 5px;
+  letter-spacing: 2px;
+}
+.site-footer a { color: #c8e6c0; }
+.site-footer a:hover { color: #ffffff; text-decoration: none; }
+.footer-links { padding-left: 0; list-style: none; }
+.footer-links li { display: block; margin-bottom: 4px; }
+.copyright-text { margin: 0; color: #c8e6c0; }
+.copyright-text a { color: #ffffff; }
+.social-icons { padding-left: 0; margin-bottom: 0; list-style: none; display: flex; gap: 0.5rem; }
+.social-icons li { display: inline-block; }
+.social-icons a {
+  background-color: #1e3d1a;
+  color: #c8e6c0;
+  font-size: 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  transition: all .2s linear;
+  text-decoration: none;
+}
+.social-icons a:hover { color: #fff; background-color: #4a8a42; }
+.social-icons a.linkedin:hover { background-color: #007bb6; }
+.social-icons a.twitter:hover { background-color: #000000; }
+@media (max-width: 767px) {
+  .footer-top { grid-template-columns: 1fr !important; }
+  .footer-bottom { flex-direction: column; text-align: center; }
+}
+</style>
+
 <footer class="site-footer">
   <div class="footer-top">
     <div class="footer-col">
