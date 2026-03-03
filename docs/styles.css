@@ -27,6 +27,7 @@
 .site-footer hr {
   border-top-color: #4a8a42;
   opacity: 0.5;
+  margin: 2rem 1rem;
 }
 
 .site-footer hr.small {
@@ -95,13 +96,13 @@
 .site-footer .col-12.col-md-4 {
   flex: 0 0 33.33% !important;
   max-width: 33.33% !important;
-  padding: 0 15px;
+  padding: 0 2rem;
 }
 
 .site-footer .col-12.col-md-8 {
   flex: 0 0 66.67% !important;
   max-width: 66.67% !important;
-  padding: 0 15px;
+  padding: 0 2rem;
 }
 
 @media (max-width: 767px) {
