@@ -3,13 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "Pine Straw Distribution"
+  title: "Pine Straw Distributors LLC"
   navbar:
+    logo: img/logo.svg
     left:
       - href: index.qmd
         text: Home
       - href: contact.qmd
         text: Contact
+  page-footer:
+    background: "#2D5A27"
+    foreground: "white"
+    left: |
+      **Pine Straw Distributors LLC**
+      Your source for quality pine straw.
+    center: |
+      **Jane Smith**
+      xxx-xxx-xxxx
+      jane@example.com
+    right: |
+      **Serving the Southeastern United States**
+      Northern Florida & Southern Georgia
 
 format:
   html:

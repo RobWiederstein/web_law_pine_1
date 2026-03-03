@@ -1,1 +1,15 @@
 /* Custom styles */
+
+/* Forest green navbar */
+.navbar {
+  background-color: #2D5A27 !important;
+  border-bottom: 2px solid #1e3d1a !important;
+}
+
+.navbar-brand, .nav-link {
+  color: #ffffff !important;
+}
+
+.nav-link:hover {
+  color: #d4e8c2 !important;
+}
