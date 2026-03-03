@@ -11,6 +11,10 @@ website:
         text: Home
       - href: products.qmd
         text: Products
+      - href: customers.qmd
+        text: Customers
+      - href: employees.qmd
+        text: Employees
       - href: contact.qmd
         text: Contact
 

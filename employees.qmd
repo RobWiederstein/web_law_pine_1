@@ -1,0 +1,102 @@
+---
+title: "Employee Portal"
+---
+
+<div class="employee-portal">
+
+  <div class="portal-notice">
+    <i class="bi bi-shield-lock-fill"></i>
+    This page is reserved for employees of Pine Straw Distributors LLC only.
+    Unauthorized access is prohibited.
+  </div>
+
+  <div class="portal-login">
+    <h4>Employee Login</h4>
+    <p class="portal-sub">Sign in to access the employee portal.</p>
+
+    <form>
+      <div class="mb-3">
+        <label for="username" class="form-label">Username</label>
+        <input type="text" class="form-control" id="username" placeholder="Enter username">
+      </div>
+      <div class="mb-3">
+        <label for="password" class="form-label">Password</label>
+        <input type="password" class="form-control" id="password" placeholder="Enter password">
+      </div>
+      <button type="submit" class="btn btn-success w-100">Sign In</button>
+    </form>
+  </div>
+
+  <div class="portal-contents">
+    <h5>Portal Contents</h5>
+    <ul>
+      <li><i class="bi bi-file-earmark-text"></i> Employee Manual</li>
+      <li><i class="bi bi-heart-pulse"></i> Benefits Packages</li>
+      <li><i class="bi bi-calendar-check"></i> Time & Attendance</li>
+      <li><i class="bi bi-cash-stack"></i> Payroll Information</li>
+      <li><i class="bi bi-geo-alt"></i> Delivery Schedules</li>
+      <li><i class="bi bi-envelope"></i> Company Directory</li>
+    </ul>
+  </div>
+
+</div>
+
+<style>
+.employee-portal {
+  max-width: 480px;
+  margin: 2rem auto;
+}
+.portal-notice {
+  background-color: #fff3cd;
+  border: 1px solid #ffc107;
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 2rem;
+  font-size: 0.92rem;
+  color: #664d03;
+}
+.portal-notice .bi {
+  margin-right: 0.5rem;
+}
+.portal-login {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+.portal-login h4 {
+  margin-bottom: 0.25rem;
+}
+.portal-sub {
+  color: #6c757d;
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+.portal-contents {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 1.5rem 2rem;
+}
+.portal-contents h5 {
+  margin-bottom: 1rem;
+  color: #2D5A27;
+}
+.portal-contents ul {
+  list-style: none;
+  padding-left: 0;
+}
+.portal-contents ul li {
+  padding: 0.4rem 0;
+  border-bottom: 1px solid #e9ecef;
+  color: #495057;
+}
+.portal-contents ul li:last-child {
+  border-bottom: none;
+}
+.portal-contents .bi {
+  margin-right: 0.6rem;
+  color: #2D5A27;
+}
+</style>
