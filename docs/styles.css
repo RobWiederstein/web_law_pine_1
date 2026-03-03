@@ -17,10 +17,11 @@
 /* Footer */
 .site-footer {
   background-color: #2D5A27;
-  padding: 45px 0 20px;
+  padding: 45px 2rem 20px;
   font-size: 15px;
   line-height: 24px;
   color: #c8e6c0;
+  width: 100%;
 }
 
 .site-footer hr {

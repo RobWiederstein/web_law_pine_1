@@ -1,7 +1,7 @@
 <footer class="site-footer">
-  <div class="container">
+  <div class="container-fluid">
     <div class="row">
-      <div class="col-sm-12 col-md-6">
+      <div class="col-12 col-md-6">
         <h6>About</h6>
         <p class="text-justify">Pine Straw Distributors LLC is your trusted connection to
         the finest pine straw mulch harvested from the longleaf and slash pine forests of
@@ -10,7 +10,7 @@
         Southeast.</p>
       </div>
 
-      <div class="col-xs-6 col-md-3">
+      <div class="col-6 col-md-3">
         <h6>Products</h6>
         <ul class="footer-links">
           <li><a href="#">Standard Bales</a></li>
@@ -19,7 +19,7 @@
         </ul>
       </div>
 
-      <div class="col-xs-6 col-md-3">
+      <div class="col-6 col-md-3">
         <h6>Contact</h6>
         <ul class="footer-links">
           <li><a href="index.html">Home</a></li>
@@ -30,15 +30,13 @@
       </div>
     </div>
     <hr>
-  </div>
-  <div class="container">
     <div class="row">
-      <div class="col-md-8 col-sm-6 col-xs-12">
+      <div class="col-12 col-md-8">
         <p class="copyright-text">Copyright &copy; 2025 All Rights Reserved by
           <a href="#">Pine Straw Distributors LLC</a>.
         </p>
       </div>
-      <div class="col-md-4 col-sm-6 col-xs-12">
+      <div class="col-12 col-md-4">
         <ul class="social-icons">
           <li><a class="linkedin" href="#"><i class="bi bi-linkedin"></i></a></li>
           <li><a class="twitter" href="#"><i class="bi bi-twitter-x"></i></a></li>
@@ -47,3 +45,9 @@
     </div>
   </div>
 </footer>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.body.appendChild(document.querySelector('.site-footer'));
+  });
+</script>
