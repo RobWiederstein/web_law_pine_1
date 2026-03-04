@@ -2,6 +2,7 @@
 title: "Employee Portal"
 ---
 
+```{=html}
 <div class="employee-portal">
 
   <div class="portal-notice">
@@ -13,7 +14,6 @@ title: "Employee Portal"
   <div class="portal-login">
     <h4>Employee Login</h4>
     <p class="portal-sub">Sign in to access the employee portal.</p>
-
     <form>
       <div class="mb-3">
         <label for="username" class="form-label">Username</label>
@@ -32,7 +32,7 @@ title: "Employee Portal"
     <ul>
       <li><i class="bi bi-file-earmark-text"></i> Employee Manual</li>
       <li><i class="bi bi-heart-pulse"></i> Benefits Packages</li>
-      <li><i class="bi bi-calendar-check"></i> Time & Attendance</li>
+      <li><i class="bi bi-calendar-check"></i> Time &amp; Attendance</li>
       <li><i class="bi bi-cash-stack"></i> Payroll Information</li>
       <li><i class="bi bi-geo-alt"></i> Delivery Schedules</li>
       <li><i class="bi bi-envelope"></i> Company Directory</li>
@@ -55,9 +55,7 @@ title: "Employee Portal"
   font-size: 0.92rem;
   color: #664d03;
 }
-.portal-notice .bi {
-  margin-right: 0.5rem;
-}
+.portal-notice .bi { margin-right: 0.5rem; }
 .portal-login {
   background: #f8f9fa;
   border: 1px solid #dee2e6;
@@ -65,9 +63,7 @@ title: "Employee Portal"
   padding: 2rem;
   margin-bottom: 2rem;
 }
-.portal-login h4 {
-  margin-bottom: 0.25rem;
-}
+.portal-login h4 { margin-bottom: 0.25rem; }
 .portal-sub {
   color: #6c757d;
   font-size: 0.9rem;
@@ -79,24 +75,14 @@ title: "Employee Portal"
   border-radius: 8px;
   padding: 1.5rem 2rem;
 }
-.portal-contents h5 {
-  margin-bottom: 1rem;
-  color: #2D5A27;
-}
-.portal-contents ul {
-  list-style: none;
-  padding-left: 0;
-}
+.portal-contents h5 { margin-bottom: 1rem; color: #2D5A27; }
+.portal-contents ul { list-style: none; padding-left: 0; }
 .portal-contents ul li {
   padding: 0.4rem 0;
   border-bottom: 1px solid #e9ecef;
   color: #495057;
 }
-.portal-contents ul li:last-child {
-  border-bottom: none;
-}
-.portal-contents .bi {
-  margin-right: 0.6rem;
-  color: #2D5A27;
-}
+.portal-contents ul li:last-child { border-bottom: none; }
+.portal-contents .bi { margin-right: 0.6rem; color: #2D5A27; }
 </style>
+```

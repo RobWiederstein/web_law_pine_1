@@ -149,39 +149,43 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="employee-portal">
-<div class="portal-notice">
-<pre><code>&lt;i class="bi bi-shield-lock-fill"&gt;&lt;/i&gt;
-This page is reserved for employees of Pine Straw Distributors LLC only.
-Unauthorized access is prohibited.</code></pre>
-</div>
-<div class="portal-login">
-<pre><code>&lt;h4&gt;Employee Login&lt;/h4&gt;
-&lt;p class="portal-sub"&gt;Sign in to access the employee portal.&lt;/p&gt;
 
-&lt;form&gt;
-  &lt;div class="mb-3"&gt;
-    &lt;label for="username" class="form-label"&gt;Username&lt;/label&gt;
-    &lt;input type="text" class="form-control" id="username" placeholder="Enter username"&gt;
-  &lt;/div&gt;
-  &lt;div class="mb-3"&gt;
-    &lt;label for="password" class="form-label"&gt;Password&lt;/label&gt;
-    &lt;input type="password" class="form-control" id="password" placeholder="Enter password"&gt;
-  &lt;/div&gt;
-  &lt;button type="submit" class="btn btn-success w-100"&gt;Sign In&lt;/button&gt;
-&lt;/form&gt;</code></pre>
+  <div class="portal-notice">
+    <i class="bi bi-shield-lock-fill"></i>
+    This page is reserved for employees of Pine Straw Distributors LLC only.
+    Unauthorized access is prohibited.
+  </div>
+
+  <div class="portal-login">
+    <h4 class="anchored">Employee Login</h4>
+    <p class="portal-sub">Sign in to access the employee portal.</p>
+    <form>
+      <div class="mb-3">
+        <label for="username" class="form-label">Username</label>
+        <input type="text" class="form-control" id="username" placeholder="Enter username">
+      </div>
+      <div class="mb-3">
+        <label for="password" class="form-label">Password</label>
+        <input type="password" class="form-control" id="password" placeholder="Enter password">
+      </div>
+      <button type="submit" class="btn btn-success w-100">Sign In</button>
+    </form>
+  </div>
+
+  <div class="portal-contents">
+    <h5 class="anchored">Portal Contents</h5>
+    <ul>
+      <li><i class="bi bi-file-earmark-text"></i> Employee Manual</li>
+      <li><i class="bi bi-heart-pulse"></i> Benefits Packages</li>
+      <li><i class="bi bi-calendar-check"></i> Time &amp; Attendance</li>
+      <li><i class="bi bi-cash-stack"></i> Payroll Information</li>
+      <li><i class="bi bi-geo-alt"></i> Delivery Schedules</li>
+      <li><i class="bi bi-envelope"></i> Company Directory</li>
+    </ul>
+  </div>
+
 </div>
-<div class="portal-contents">
-<pre><code>&lt;h5&gt;Portal Contents&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;i class="bi bi-file-earmark-text"&gt;&lt;/i&gt; Employee Manual&lt;/li&gt;
-  &lt;li&gt;&lt;i class="bi bi-heart-pulse"&gt;&lt;/i&gt; Benefits Packages&lt;/li&gt;
-  &lt;li&gt;&lt;i class="bi bi-calendar-check"&gt;&lt;/i&gt; Time &amp; Attendance&lt;/li&gt;
-  &lt;li&gt;&lt;i class="bi bi-cash-stack"&gt;&lt;/i&gt; Payroll Information&lt;/li&gt;
-  &lt;li&gt;&lt;i class="bi bi-geo-alt"&gt;&lt;/i&gt; Delivery Schedules&lt;/li&gt;
-  &lt;li&gt;&lt;i class="bi bi-envelope"&gt;&lt;/i&gt; Company Directory&lt;/li&gt;
-&lt;/ul&gt;</code></pre>
-</div>
-</div>
+
 <style>
 .employee-portal {
   max-width: 480px;
@@ -196,9 +200,7 @@ Unauthorized access is prohibited.</code></pre>
   font-size: 0.92rem;
   color: #664d03;
 }
-.portal-notice .bi {
-  margin-right: 0.5rem;
-}
+.portal-notice .bi { margin-right: 0.5rem; }
 .portal-login {
   background: #f8f9fa;
   border: 1px solid #dee2e6;
@@ -206,9 +208,7 @@ Unauthorized access is prohibited.</code></pre>
   padding: 2rem;
   margin-bottom: 2rem;
 }
-.portal-login h4 {
-  margin-bottom: 0.25rem;
-}
+.portal-login h4 { margin-bottom: 0.25rem; }
 .portal-sub {
   color: #6c757d;
   font-size: 0.9rem;
@@ -220,26 +220,15 @@ Unauthorized access is prohibited.</code></pre>
   border-radius: 8px;
   padding: 1.5rem 2rem;
 }
-.portal-contents h5 {
-  margin-bottom: 1rem;
-  color: #2D5A27;
-}
-.portal-contents ul {
-  list-style: none;
-  padding-left: 0;
-}
+.portal-contents h5 { margin-bottom: 1rem; color: #2D5A27; }
+.portal-contents ul { list-style: none; padding-left: 0; }
 .portal-contents ul li {
   padding: 0.4rem 0;
   border-bottom: 1px solid #e9ecef;
   color: #495057;
 }
-.portal-contents ul li:last-child {
-  border-bottom: none;
-}
-.portal-contents .bi {
-  margin-right: 0.6rem;
-  color: #2D5A27;
-}
+.portal-contents ul li:last-child { border-bottom: none; }
+.portal-contents .bi { margin-right: 0.6rem; color: #2D5A27; }
 </style>
 
 
