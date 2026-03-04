@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-![](https://picsum.photos/seed/pinestraw/1200/400.jpg){fig-alt="Pine straw landscape" width="100%"}
+![Jane Doe](img/jane.jpg){fig-alt="Jane Doe" width="100%"}
 
 ## Jane Doe
 
