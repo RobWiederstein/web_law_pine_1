@@ -2,9 +2,13 @@
 
 /* Announcement banner */
 #quarto-announcement {
+  --bs-alert-bg: #9B3010;
+  --bs-alert-border-color: #7a2509;
+  --bs-alert-color: #ffffff;
   background-color: #9B3010 !important;
   border-color: #7a2509 !important;
   color: #ffffff !important;
+  border-radius: 0 !important;
 }
 
 #quarto-announcement a {
