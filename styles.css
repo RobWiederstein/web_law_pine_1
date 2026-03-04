@@ -1,5 +1,11 @@
 /* Custom styles */
 
+/* Pine straw brownish-red link hover */
+a:hover {
+  color: #8B4513 !important;
+  text-decoration: underline;
+}
+
 /* Forest green navbar */
 .navbar {
   background-color: #2D5A27 !important;
