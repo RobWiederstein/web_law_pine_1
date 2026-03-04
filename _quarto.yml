@@ -5,9 +5,8 @@ project:
 website:
   title: "Pine Straw Distributors LLC"
   announcement:
-    icon: envelope
     dismissable: false
-    content: "Email us for prices at [sales@pinestrawdistributors.com](mailto:sales@pinestrawdistributors.com)"
+    content: "For current prices, email us at [sales@pinestrawdistributors.com](mailto:sales@pinestrawdistributors.com) or call 1-800-xxx-xxxx"
     type: success
     position: below-navbar
   navbar:
