@@ -3,6 +3,17 @@
 /* Atkinson Hyperlegible font */
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+/* Contact page — Jane photo responsive */
+@media (max-width: 576px) {
+  .jane-photo {
+    float: none !important;
+    display: block;
+    margin: 0 auto 1.5rem auto !important;
+    width: 55% !important;
+    max-width: 200px !important;
+  }
+}
+
 /* Announcement banner */
 #quarto-announcement {
   text-align: center !important;
