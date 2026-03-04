@@ -28,3 +28,4 @@ format:
     css: styles.css
     toc: false
     include-after-body: _footer.html
+    mainfont: "Atkinson Hyperlegible"
