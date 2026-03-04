@@ -24,6 +24,31 @@
   text-decoration: underline;
 }
 
+/* Testimonial quote */
+.psd-testimonial {
+  text-align: center;
+  border-left: none;
+  margin: 2.5rem auto;
+  max-width: 750px;
+  padding: 2rem;
+  background-color: #f9f6f0;
+  border-radius: 6px;
+}
+
+.psd-testimonial p {
+  font-size: 1.35rem;
+  font-style: italic;
+  color: #2D5A27;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.psd-testimonial footer {
+  font-size: 1rem;
+  color: #6c757d;
+  font-weight: 600;
+}
+
 /* Pine straw brownish-red link hover */
 a:hover,
 p a:hover,

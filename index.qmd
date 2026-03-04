@@ -23,6 +23,13 @@ Pinestraw Distributors LLC is your trusted connection to the finest pine straw m
   When you choose Pinestraw Distributors LLC, you're choosing a mulch that works as hard as
   the land it comes from.
 
+```{=html}
+<blockquote class="psd-testimonial">
+  <p>"We had huge pine straw demands and Pine Straw Distributors delivered quality straw on time at a market-beating price from others."</p>
+  <footer>— John Smith</footer>
+</blockquote>
+```
+
 ## How We Deliver
 
 Pine straw is available in three formats to match any job size, from a single residential
