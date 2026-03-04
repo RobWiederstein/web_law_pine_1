@@ -5,7 +5,7 @@ title: "Contact"
 ## Jane Doe
 
 ::: {style="overflow: hidden; margin-bottom: 2rem;"}
-![Jane Doe](img/jane.jpg){style="float: left; margin: 0 2rem 1.5rem 0; border-radius: 6px;" width="260px" fig-alt="Jane Doe"}
+![Jane Doe](img/jane.jpg){style="float: left; margin: 0 2rem 1.5rem 0; border-radius: 6px;" width="260px" fig-alt="Jane Doe, Principal of Pine Straw Distributors LLC"}
 
 Jane Doe didn't set out to build a career in pine straw — but after 25 years, she wouldn't
 have it any other way. A native of the Midwest, Jane graduated from Indiana University with

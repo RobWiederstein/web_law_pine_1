@@ -2,7 +2,7 @@
 title: "Welcome"
 ---
 
-![Pine straw mulch for garden](img/hero.jpg){fig-alt="Pine straw mulch" width="100%"}
+![Pine straw mulch for garden](img/hero.jpg){fig-alt="Close-up of golden pine straw mulch spread across a garden bed" width="100%"}
 
 ## Who we are
 Pinestraw Distributors LLC is your trusted connection to the finest pine straw mulch
