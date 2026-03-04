@@ -3,11 +3,11 @@
 /* Announcement banner */
 #quarto-announcement {
   text-align: center !important;
-  --bs-alert-bg: #9B3010;
-  --bs-alert-border-color: #7a2509;
+  --bs-alert-bg: #8B6914;
+  --bs-alert-border-color: #6e5210;
   --bs-alert-color: #ffffff;
-  background-color: #9B3010 !important;
-  border-color: #7a2509 !important;
+  background-color: #8B6914 !important;
+  border-color: #6e5210 !important;
   color: #ffffff !important;
   border-radius: 0 !important;
 }
