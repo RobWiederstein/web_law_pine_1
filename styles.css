@@ -1,5 +1,17 @@
 /* Custom styles */
 
+/* Announcement banner */
+#quarto-announcement {
+  background-color: #9B3010 !important;
+  border-color: #7a2509 !important;
+  color: #ffffff !important;
+}
+
+#quarto-announcement a {
+  color: #ffffff !important;
+  text-decoration: underline;
+}
+
 /* Pine straw brownish-red link hover */
 a:hover,
 p a:hover,
