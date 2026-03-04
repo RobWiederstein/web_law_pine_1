@@ -12,6 +12,11 @@
   border-radius: 0 !important;
 }
 
+#quarto-announcement .quarto-announcement-content {
+  text-align: center !important;
+  width: 100%;
+}
+
 #quarto-announcement a {
   color: #ffffff !important;
   text-decoration: underline;
