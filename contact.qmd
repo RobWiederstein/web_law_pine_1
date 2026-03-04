@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-![Jane Doe](img/jane.jpg){fig-alt="Jane Doe" width="100%"}
+![Jane Doe](img/jane.jpg){fig-alt="Jane Doe" width="35%" fig-align="center"}
 
 ## Jane Doe
 
