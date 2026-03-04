@@ -4,6 +4,12 @@ project:
 
 website:
   title: "Pine Straw Distributors LLC"
+  announcement:
+    icon: envelope
+    dismissable: false
+    content: "Email us for prices at [sales@pinestrawdistributors.com](mailto:sales@pinestrawdistributors.com)"
+    type: success
+    position: below-navbar
   navbar:
     logo: img/logo.svg
     left:
