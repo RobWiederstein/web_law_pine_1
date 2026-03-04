@@ -2,9 +2,10 @@
 title: "Contact"
 ---
 
-![Jane Doe](img/jane.jpg){fig-alt="Jane Doe" width="35%" fig-align="center"}
-
 ## Jane Doe
+
+::: {style="overflow: hidden; margin-bottom: 2rem;"}
+![Jane Doe](img/jane.jpg){style="float: left; margin: 0 2rem 1.5rem 0; border-radius: 6px;" width="260px" fig-alt="Jane Doe"}
 
 Jane Doe didn't set out to build a career in pine straw — but after 25 years, she wouldn't
 have it any other way. A native of the Midwest, Jane graduated from Indiana University with
@@ -19,21 +20,22 @@ market, building supplier relationships, and developing the logistics knowledge 
 define her career.
 
 Eventually the business — and the weather — drew her further south to Florida, where she
-established Pinestraw Distributors LLC and expanded her network across the full breadth of
+established Pine Straw Distributors LLC and expanded her network across the full breadth of
 the southeastern United States. Today she sources premium pine straw from the longleaf and
 slash pine forests she has come to know intimately over a quarter century in the field.
 
 Away from work, Jane is most likely to be found on a golf course — preferably one with
 immaculate pine straw beds lining the fairways. She believes that great landscaping and a
 great round of golf share the same quality: everything in its right place.
+:::
 
 ---
 
 ## Get in Touch
 
 **Jane Doe**
-Principal, Pinestraw Distributors LLC
+Principal, Pine Straw Distributors LLC
 
 - **Phone:** xxx-xxx-xxxx
-- **Email:** jane@pinestrwadistributors.com
+- **Email:** jane@pinestrawdistributors.com
 - **Service Area:** Northern Florida & Southern Georgia
