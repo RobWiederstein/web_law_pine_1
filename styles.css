@@ -15,6 +15,8 @@
 #quarto-announcement .quarto-announcement-content {
   text-align: center !important;
   width: 100%;
+  justify-content: center !important;
+  flex: 1 !important;
 }
 
 #quarto-announcement a {
