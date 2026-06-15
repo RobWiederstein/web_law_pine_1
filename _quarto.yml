@@ -5,6 +5,7 @@ project:
     - "!products.qmd"
     - "!customers.qmd"
     - "!employees.qmd"
+    - "!contact.qmd"
 
 website:
   title: "Pine Straw Distributors LLC"
