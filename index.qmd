@@ -6,67 +6,67 @@ title: "Premium Wholesale Pine Straw — Delivered Nationwide"
 
 For more than three decades, Pine Straw Distributors LLC has supplied high-quality,
 all-natural pine straw to landscapers, golf courses, nurseries, contractors, and
-retailers across the United States. Based in Florida and led by industry expert
-Lori Wiederstein, we specialize in longleaf and slash pine straw sourced from the
-premium forests of North Florida and South Georgia.
-
-We are a trusted national distributor known for reliability, consistency, and
-exceptional customer service.
+retailers across the United States. Based in Florida and led by seasoned industry
+experts, we specialize in longleaf and slash pine straw sourced from the premium
+forests of North Florida and South Georgia. We are a trusted national distributor
+known for reliability, consistency, and exceptional customer service.
 
 ## Why Choose Pine Straw Distributors LLC?
 
-- 30+ years of industry expertise
-- Premium longleaf & slash pine straw — clean, fresh, and long-lasting
-- Sourced from top-quality producers in North Florida & South Georgia
-- Nationwide shipping with dependable logistics
-- Wholesale-only — built for landscapers, golf courses, nurseries, contractors, and retailers
-- Flexible truckload options to match your business needs
+- **30+ years of industry expertise**
+- **Premium longleaf & slash pine straw** — clean, fresh, and long-lasting
+- **Sourced from top producers** in North Florida & South Georgia
+- **Nationwide shipping** with dependable logistics
+- **Wholesale-only** — built for landscapers, golf courses, nurseries, contractors, and retailers
+- **Flexible truckload options** to match your business needs
 
 ## Our Products
 
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
 ### Longleaf Pine Straw
 
-- Longer needles for a premium, high-end look
-- Excellent for erosion control
-- Popular for high-end commercial and residential properties, golf courses, and retail resale
+Longer needles for a premium, high-end look and excellent erosion control.
+Popular for upscale commercial and residential properties, golf courses, and
+retail resale.
+:::
 
+::: {.g-col-12 .g-col-md-6}
 ### Slash Pine Straw
 
-- Great for large-scale landscaping and cost-efficient coverage
-- Excellent for erosion control
-- Popular with contractors and municipalities
+A cost-efficient choice for large-scale landscaping with the same excellent
+erosion control. A favorite with contractors and municipalities.
+:::
+:::
 
-## Truckload Options
+## Shipping & Truckloads
 
-We offer two wholesale shipping formats to meet your operational needs:
+We offer two wholesale shipping formats to match your operational needs, with
+nationwide delivery coordinated by our logistics team.
 
-### Palletized Pine Straw
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### Palletized
 
-- 1,344 bales per truckload
-- Easy to unload
-- Ideal for retail garden centers, nurseries, and organized storage
+**1,344 bales per truckload.** Easy to unload and ideal for retail garden
+centers, nurseries, and organized storage.
+:::
 
-### Floor-Loaded Pine Straw
+::: {.g-col-12 .g-col-md-6}
+### Floor-Loaded
 
-- 1,540 bales per truckload
-- Half truckloads are available
-- Best for high-volume landscapers and distributors
+**1,540 bales per truckload**, with half truckloads available. Best for
+high-volume landscapers and distributors.
+:::
+:::
 
-Nationwide delivery is available. Our logistics team coordinates every detail to
-ensure timely, reliable shipments.
-
-## Nationwide Shipping
-
-Whether you're on the East Coast, West Coast, Midwest, or the Gulf, Pine Straw
-Distributors LLC ships directly to your location. We partner with trusted carriers
-to ensure:
-
-- On-time delivery
-- Secure loads
-- Clear communication from order to arrival
+Whether you're on the East Coast, West Coast, Midwest, or the Gulf, we ship
+directly to your location. By partnering with trusted carriers, we ensure
+on-time delivery, secure loads, and clear communication from order to arrival.
 
 ## Who We Serve
 
+::: {.psd-two-col}
 - Landscape supply companies
 - Garden centers & nurseries
 - Golf courses
@@ -75,25 +75,20 @@ to ensure:
 - Retailers
 - Large property management groups
 - National distributors
+:::
 
 ## Request a Quote
 
-Ready to place an order or get pricing? Contact us for a customized quote based on
-your location and preferred truckload type.
+::: {.callout-note appearance="simple" icon="false"}
+### Ready to order or get pricing?
 
-**Phone:** (insert number)
-**Email:** (insert email)
+Whether you need a single truckload or recurring shipments, we'll build a
+customized quote based on your location and preferred truckload type.
 
-Whether you need one truckload or recurring shipments, we're here to support your
-business with dependable, high-quality pine straw.
+**Email:** [sales@pinestrawdistributors.com](mailto:sales@pinestrawdistributors.com)
+**Phone:** 1-800-xxx-xxxx
+:::
 
-## About Pine Straw Distributors LLC
-
-Founded by Lori Wiederstein, Pine Straw Distributors LLC has grown into one of the
-most trusted wholesale pine straw suppliers in the country. With three decades of
-experience, Lori brings unmatched industry knowledge, longstanding supplier
-relationships, and a commitment to quality that sets her business apart.
-
-Our mission is simple: deliver premium pine straw with exceptional service, every time.
-</content>
-</invoke>
+Pine Straw Distributors LLC has grown into one of the most trusted wholesale
+pine straw suppliers in the country. Our mission is simple: deliver premium pine
+straw with exceptional service, every time.

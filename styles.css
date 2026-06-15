@@ -45,6 +45,31 @@ html {
   text-decoration: underline;
 }
 
+/* Section headings — clearer hierarchy on content pages */
+#quarto-document-content h2 {
+  margin-top: 2.75rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid #e3ddd0;
+  color: #2D5A27;
+}
+
+#quarto-document-content h3 {
+  color: #2D5A27;
+  margin-top: 1.25rem;
+}
+
+/* Two-column bullet list (e.g. "Who We Serve") */
+.psd-two-col ul {
+  column-count: 2;
+  column-gap: 2.5rem;
+}
+
+@media (max-width: 576px) {
+  .psd-two-col ul {
+    column-count: 1;
+  }
+}
+
 /* Testimonial quote */
 .psd-testimonial {
   text-align: center;
